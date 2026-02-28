@@ -1,17 +1,20 @@
 # nedcodes
 
-We build tools and resources for Cursor AI developers.
+Open-source tools for Cursor AI developers.
 
-## What We Make
+## The Toolkit
 
-🗂 **[cursorrules-collection](https://github.com/cursorrulespacks/cursorrules-collection)** — 77+ free .mdc rules for React, TypeScript, Python, Tailwind, testing, and more. Drop into any project.
+🩺 **[cursor-doctor](https://github.com/nedcodes-ok/cursor-doctor)** — Diagnose and auto-fix your Cursor AI setup. 60+ lint rules, conflict detection, token budget analysis, rule performance tracking, team sync. Free + Pro. `npx cursor-doctor scan`
 
-🔍 **[cursor-lint](https://github.com/cursorrulespacks/cursor-lint)** — CLI tool to check your .cursorrules and .mdc files for errors. Zero deps, runs anywhere. `npx cursor-lint`
+⚡ **[rule-gen](https://github.com/nedcodes-ok/rule-gen)** — Generate AI coding rules from your actual source code, powered by Google Gemini. `npx rulegen-ai`
 
-📋 **[Cursor Setup Audit](https://cursorrulespacks.gumroad.com/l/cursor-setup-audit)** — $50 async review of your rules setup. Written report with specific fixes, 48hr turnaround.
+🔄 **[rule-porter](https://github.com/nedcodes-ok/rule-porter)** — Convert rules between Cursor, Windsurf, CLAUDE.md, AGENTS.md, and Copilot. Bidirectional. `npx rule-porter`
+
+🗂 **[cursorrules-collection](https://github.com/nedcodes-ok/cursorrules-collection)** — 110+ free .mdc and .cursorrules files for React, TypeScript, Python, and more.
 
 ## Links
 
+- 🌐 [nedcodes.dev](https://nedcodes.dev)
 - 📝 [Articles on Dev.to](https://dev.to/nedcodes)
 - 💬 [Cursor Forum](https://forum.cursor.com/u/nedcodes)
-- 🌐 [Website](https://cursorrulespacks.github.io)
+- 📧 hello@nedcodes.dev
